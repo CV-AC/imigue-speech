@@ -39,3 +39,13 @@ If you find the method useful, please cite:
   year={2026}
 }
 ```
+
+## Audio-video dataset
+
+The complete iMiGUE dataset (video and audio), along with the data collection protocol and microgesture annotations, is described in the following papers:
+
+H Chen, X Liu, X Li, H Shi, G. Zhao [Analyze spontaneous gestures for emotional stress state recognition: A micro-gesture dataset and analysis with deep learning.](https://ieeexplore.ieee.org/abstract/document/8756513?casa_token=ne96RIFDxLQAAAAA:nW-398Z2gyXh7UGyUf93fxD9z5IAIyJQDvuOs6BZQw6RTqeXBhIBP4tIZpL0nwugCMwPT9Knw3j3) IEEE 2019 14th IEEE International Conference on Automatic Face & Gesture (2019). 
+
+H Chen, H Shi, X Liu, X Li, G. Zhao SMG: [A Micro-gesture Dataset Towards Spontaneous Body Gestures for Emotional Stress State Analysis.](https://link.springer.com/article/10.1007/s11263-023-01761-6) International Journal of Comput Vision (2023).
+
+
