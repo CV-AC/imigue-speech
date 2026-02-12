@@ -29,7 +29,7 @@ Kakouros, S., Kang, F., & Chen, H. (2026). [iMiGUE-Speech: A Spontaneous Speech 
 
 **Abstract:**  *This work presents an extension of the iMiGUE dataset, providing a spontaneous affective corpus for the study of emotional and affective states. The new release focuses on speech and enriches the original dataset with a variety of metadata, including speech transcripts, speaker-role separation between interviewer and interviewee, and word-level forced alignments. To demonstrate the utility of the dataset and establish initial performance benchmarks for the iMiGUE-Speech extensions, we introduce two affective state evaluation tasks to facilitate comparative evaluation: Speech Emotion Recognition (SER) and transcript-based sentiment analysis. These tasks leverage state-of-the-art pre-trained representations to assess the dataset’s capacity to capture spontaneous affective states from both acoustic and linguistic modalities. The extended dataset will be made publicly available to support future research in the study of affect and related fields.*
 
-If you find the method useful, please cite:
+If you use the dataset, please cite:
 
 ```
 @article{kakouros2026speech,
