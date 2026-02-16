@@ -1,6 +1,6 @@
 # iMiGUE-speech: A Spontaneous Speech Dataset for Affective Analysis
 
-This dataset is an extension of the iMiGUE dataset, providing a spontaneous affective corpus for the study of emotional and affective states. The new release focuses on speech and enriches the original dataset with a variety of metadata, including speech transcripts, speaker-role separation between interviewer and interviewee, and word-level forced alignments. The dataset contains the annotations described in the next section.
+This dataset is an extension of the iMiGUE dataset, providing a spontaneous affective corpus in English for the study of emotional and affective states. The new release focuses on speech and enriches the original dataset with a variety of metadata, including speech transcripts, speaker-role separation between interviewer and interviewee, and word-level forced alignments. The dataset contains the annotations described in the next section.
 
 ## Description
 The **iMiGUE-speech** dataset is a collection of interview recordings organized by **video/interview ID**. It includes:
