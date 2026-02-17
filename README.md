@@ -5,12 +5,12 @@ This dataset is an extension of the iMiGUE dataset, providing a spontaneous affe
 ## Description
 The **iMiGUE-speech** dataset is a collection of interview recordings organized by **video/interview ID**. It includes:
 
-- a metadata file (`labels.csv`) describing each interview, and
+- a file with labels (`labels.csv`) describing each interview recording, and
 - per-interview folders containing the full audio recording in WAV format and multiple transcript files.
 
 Each interview is also split into **speaker-specific segments** for the **interviewee (athlete)** and the **interviewer(s) (reporters)**, with corresponding ASR transcripts provided for each speaker.
 
-## Metadata: `labels.csv`
+## Labels: `labels.csv`
 The dataset root directory contains a file named `labels.csv`, with **one row per interview folder**. The columns are:
 
 - `video_id`: Unique identifier for the interview recording (matches the interview folder name).
