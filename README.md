@@ -83,7 +83,7 @@ These subfolders contain the corresponding segmented speech data and transcript 
 | Segment indexing | Custom | Sequential IDs (e.g., `segment_001`). |
 
 ## Using the dataset and licensing
-To request access to the dataset, please contact [Haoyu Chen](mailto:Chen.Haoyu@oulu.fi) to sign the license agreement. Once the agreement has been signed, you will be granted access to the full dataset.
+To request access to the dataset, please contact [Haoyu Chen](mailto:Chen.Haoyu@oulu.fi) (University of Oulu, Finland) to sign the license agreement. Once the agreement has been signed, you will be granted access to the full dataset.
 
 ## Citing and repository information
 
