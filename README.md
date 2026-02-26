@@ -96,11 +96,14 @@ Kakouros, S., Kang, F., & Chen, H. (2026). [iMiGUE-Speech: A Spontaneous Speech 
 If you use the dataset, please cite:
 
 ```
-@article{kakouros2026speech,
-  title={iMiGUE-Speech: A Spontaneous Speech Dataset for Affective Analysis},
-  author={Kakouros, Sofoklis and Kang, Fang and Chen, Haoyu},
-  journal={arXiv to be added},
-  year={2026}
+@article{kakouros2026imiguespeechspontaneousspeechdataset,
+      title={iMiGUE-Speech: A Spontaneous Speech Dataset for Affective Analysis}, 
+      author={Sofoklis Kakouros and Fang Kang and Haoyu Chen},
+      year={2026},
+      eprint={2602.21464},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2602.21464}, 
 }
 ```
 
